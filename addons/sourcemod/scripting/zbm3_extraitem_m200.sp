@@ -106,7 +106,7 @@ public void OnMapStart(/*void*/)
 	AddFileToDownloadsTable(sSound); 
 	
 	// Add models to download list
-	AddFileToDownloadsTable("models/weapons/m200/v_snip_m200mdl");
+	AddFileToDownloadsTable("models/weapons/m200/v_snip_m200.mdl");
 	AddFileToDownloadsTable("models/weapons/m200/v_snip_m200.dx90");
 	AddFileToDownloadsTable("models/weapons/m200/v_snip_m200.vvd");
 	AddFileToDownloadsTable("models/weapons/m200/w_snip_m200.mdl");
